@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-15169b61.zappy5.app
+https://example.com
 הפלטפורמה המרכזית למורות לחינוך מיוחד: אספו, שתפו וגלו חומרי למידה מעשיים שיעצימו את ההוראה שלכם. התחילו לחקור עוד היום והפכו כל שיעור לחוויה מכילה.
 
 ### ספריית משאבים
-https://-15169b61.zappy5.app/resources
+https://example.com/resources
 ספריית משאבים עשירה ומאורגנת במיוחד לצורכי תלמידים עם צרכים מיוחדים. מצאו, סננו והורידו חומרי הוראה מוכנים שיחסכו לכם זמן יקר ויעשירו את הכיתה.
 
 ### לאנשי חינוך
-https://-15169b61.zappy5.app/educators
+https://example.com/educators
 מרחב ייעודי לאנשי חינוך מיוחד: התחברו לעמיתות, שתפו תובנות מהשטח, וקבלו השראה מכלים פרקטיים שיקדמו את הקריירה שלכן. הצטרפו עכשיו לקהילה התומכת.
 
 ### אודות
-https://-15169b61.zappy5.app/about
+https://example.com/about
 הכירו את החזון שמאחורי &#39;צוהר הלב&#39;: ליצור בית חם דיגיטלי למורות לחינוך מיוחד, עם כלים נגישים שמפרקים חסמים. גלו איך אנחנו בונים עתיד שוויוני יותר, משאב אחד בכל פעם.
 
 ### צור קשר
-https://-15169b61.zappy5.app/contact
+https://example.com/contact
 יש לכן רעיון, שאלה או צורך מיוחד? צרו איתנו קשר והפכו לשותפות פעילות בעיצוב הפלטפורמה. אנחנו כאן כדי להקשיב, לתמוך ולפתח יחד את הדור הבא של חומרי הלמידה.
 
 ### תודה רבה - פנייתך התקבלה
-https://-15169b61.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך לצוהר הלב. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם בנושא חינוך מיוחד.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-15169b61.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-15169b61.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-15169b61.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-15169b61.zappy5.app/contact
-- Endpoint: https://-15169b61.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Special Education
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-15169b61.zappy5.app/sitemap.xml
-- Robots: https://-15169b61.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-15169b61.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
