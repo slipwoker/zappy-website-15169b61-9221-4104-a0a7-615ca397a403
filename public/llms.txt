@@ -1,0 +1,86 @@
+# חומרי למידה צוהר הלב — Generative Engine Optimization Map
+
+> A dedicated platform designed to aggregate and organize learning materials for special education teachers. The site serves as a central hub where educators can access, share, and discover teaching resources tailored for special needs students. The platform aims to empower special education teachers with structured, accessible, and practical tools to enhance their teaching practice.
+
+---
+
+## Pages
+
+### בית
+https://-15169b61.zappy5.app
+הפלטפורמה המרכזית למורות לחינוך מיוחד: אספו, שתפו וגלו חומרי למידה מעשיים שיעצימו את ההוראה שלכם. התחילו לחקור עוד היום והפכו כל שיעור לחוויה מכילה.
+
+### ספריית משאבים
+https://-15169b61.zappy5.app/resources
+ספריית משאבים עשירה ומאורגנת במיוחד לצורכי תלמידים עם צרכים מיוחדים. מצאו, סננו והורידו חומרי הוראה מוכנים שיחסכו לכם זמן יקר ויעשירו את הכיתה.
+
+### לאנשי חינוך
+https://-15169b61.zappy5.app/educators
+מרחב ייעודי לאנשי חינוך מיוחד: התחברו לעמיתות, שתפו תובנות מהשטח, וקבלו השראה מכלים פרקטיים שיקדמו את הקריירה שלכן. הצטרפו עכשיו לקהילה התומכת.
+
+### אודות
+https://-15169b61.zappy5.app/about
+הכירו את החזון שמאחורי &#39;צוהר הלב&#39;: ליצור בית חם דיגיטלי למורות לחינוך מיוחד, עם כלים נגישים שמפרקים חסמים. גלו איך אנחנו בונים עתיד שוויוני יותר, משאב אחד בכל פעם.
+
+### צור קשר
+https://-15169b61.zappy5.app/contact
+יש לכן רעיון, שאלה או צורך מיוחד? צרו איתנו קשר והפכו לשותפות פעילות בעיצוב הפלטפורמה. אנחנו כאן כדי להקשיב, לתמוך ולפתח יחד את הדור הבא של חומרי הלמידה.
+
+### תודה רבה - פנייתך התקבלה
+https://-15169b61.zappy5.app/thank-you
+תודה על פנייתך לצוהר הלב. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם בנושא חינוך מיוחד.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-15169b61.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-15169b61.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-15169b61.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-15169b61.zappy5.app/contact
+- Endpoint: https://-15169b61.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חומרי למידה צוהר הלב
+A dedicated platform designed to aggregate and organize learning materials for special education teachers. The site serves as a central hub where educators can access, share, and discover teaching resources tailored for special needs students. The platform aims to empower special education teachers with structured, accessible, and practical tools to enhance their teaching practice.
+
+## Target Audience
+- מורות לחינוך מיוחד
+- מנהלות בתי ספר לחינוך מיוחד
+- מטפלות חינוכיות
+
+## Industry
+Special Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-15169b61.zappy5.app/sitemap.xml
+- Robots: https://-15169b61.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-15169b61.zappy5.app/llms-full.txt
